@@ -1,0 +1,16 @@
+﻿symbol	"GLDRN"
+description	"Goldryn — The Shield to Own Your Future. A secure, innovative crypto empowering your digital assets."
+image	"https://venusvictus.github.io/goldryn-metadata/goldryn-logo.png"
+external_url	""
+seller_fee_basis_points	500
+attributes	[]
+properties	
+files	
+0	
+uri	"goldryn-logo.png"
+type	"image/png"
+category	"image"
+creators	
+0	
+address	"EocAcFzR49DXW96dVT9RhTViRwCQKfPnagka17vVovjb"
+share	100
